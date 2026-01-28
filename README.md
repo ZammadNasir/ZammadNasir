@@ -8,11 +8,6 @@ React.js • React Native • Redux • TypeScript
 
 ---
 
-### 💼 Currently
-🚀 Building **iomovo**, an AI-powered mobile storage app  
-using React Native & Redux.
-
----
 
 ### 🔧 Tech Stack
 React.js • React Native • Redux • JS (ES6+) • TS  
