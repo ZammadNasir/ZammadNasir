@@ -1,22 +1,26 @@
 # 👋 Hey, I'm Zammad!
 
-### 🧠 Frontend Developer  
-React.js • React Native • Redux • TypeScript
+### 🧠 Frontend Developer (React & React Native)
 
-📍 Based in Karachi, Pakistan  
-🔗 [LinkedIn](https://www.linkedin.com/in/zammad-nasir/) | [Leetcode](https://leetcode.com/u/zammadnasir/) | zammadnasir@gmail.com
+I build scalable, high-performance web & mobile applications with a focus on clean architecture and smooth user experience.
+
+📍 Karachi, Pakistan  
+🔗 [LinkedIn](https://www.linkedin.com/in/zammad-nasir/) | [LeetCode](https://leetcode.com/u/zammadnasir/)  
+📧 zammadnasir@gmail.com  
 
 ---
-
 
 ### 🔧 Tech Stack
-React.js • React Native • Redux • JS (ES6+) • TS  
-Material UI • REST APIs • Performance Optimization
+
+**Frontend:** React.js, React Native, TypeScript, Redux  
+**UI:** Material UI, Responsive Design  
+**Backend Integration:** REST APIs  
+**Other:** Performance Optimization, Scalable Architecture  
 
 ---
 
-### 🌱 I’m learning / exploring
-Next.js • Testing (Jest) • CI/CD • Open source contributions
+### 🌱 Currently Exploring
+
+Next.js • Open Source  
 
 ---
-
