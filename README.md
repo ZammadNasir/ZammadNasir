@@ -1,26 +1,54 @@
-# 👋 Hey, I'm Zammad!
+# 👋 Hey, I'm Zammad Nasir
 
-### 🧠 Frontend Developer (React & React Native)
+### Frontend & React Native Developer
 
-I build scalable, high-performance web & mobile applications with a focus on clean architecture and smooth user experience.
+I build scalable web and mobile applications using React.js and React Native, with a strong focus on performance, clean architecture, and real-world product development.
 
-📍 Karachi, Pakistan  
-🔗 [LinkedIn](https://www.linkedin.com/in/zammad-nasir/) | [LeetCode](https://leetcode.com/u/zammadnasir/)  
-📧 zammadnasir@gmail.com  
+I enjoy solving complex UI/UX challenges, optimizing application performance, and building products that provide smooth and reliable user experiences.
 
----
+📍 Karachi, Pakistan
+📧 [zammadnasir@gmail.com](mailto:zammadnasir@gmail.com)
 
-### 🔧 Tech Stack
-
-**Frontend:** React.js, React Native, TypeScript, Redux  
-**UI:** Material UI, Responsive Design  
-**Backend Integration:** REST APIs  
-**Other:** Performance Optimization, Scalable Architecture  
+🔗 LinkedIn: https://www.linkedin.com/in/zammad-nasir/
+🔗 GitHub: https://github.com/ZammadNasir
+🔗 LeetCode: https://leetcode.com/u/zammadnasir/
 
 ---
 
-### 🌱 Currently Exploring
+## 🚀 Tech Stack
 
-Next.js • Open Source  
+### Frontend
+
+* React.js
+* React Native
+* JavaScript (ES6+)
+* TypeScript
+* Redux / Context API
+
+### UI & Styling
+
+* Material UI
+* Responsive Design
+* Mobile-first Development
+
+### Backend & APIs
+
+* REST APIs
+* Firebase
+* API Integrations
+
+### Other
+
+* Performance Optimization
+* Reusable Component Architecture
+* Git & Collaborative Workflows
+
 
 ---
+
+## 🌱 Currently Exploring
+
+* Next.js
+* MERN Stack
+* AI Integrations
+* Open Source Contributions
