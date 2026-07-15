@@ -9,7 +9,7 @@ I enjoy solving complex UI/UX challenges, optimizing application performance, an
 📍 Karachi, Pakistan
 📧 [zammadnasir@gmail.com](mailto:zammadnasir@gmail.com)
 
-[🔗 LinkedIn](https://www.linkedin.com/in/zammad-nasir/) | [🔗 GitHub](https://github.com/ZammadNasir) | [🔗 LeetCode](https://leetcode.com/u/zammadnasir/)
+[🔗 LinkedIn](https://www.linkedin.com/in/zammad-nasir/) | [🔗 GitHub](https://github.com/ZammadNasir)
 
 ---
 
