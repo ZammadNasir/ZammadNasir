@@ -17,7 +17,7 @@ I enjoy solving complex UI/UX challenges, optimizing application performance, an
 
 ### Frontend
 
-* React.js
+* React.js/Next.js
 * React Native
 * JavaScript (ES6+)
 * TypeScript
@@ -25,6 +25,7 @@ I enjoy solving complex UI/UX challenges, optimizing application performance, an
 
 ### UI & Styling
 
+* Shad CN
 * Material UI
 * Responsive Design
 * Mobile-first Development
@@ -32,7 +33,7 @@ I enjoy solving complex UI/UX challenges, optimizing application performance, an
 ### Backend & APIs
 
 * REST APIs
-* Firebase
+* Supabase
 * API Integrations
 
 ### Other
@@ -46,7 +47,6 @@ I enjoy solving complex UI/UX challenges, optimizing application performance, an
 
 ## 🌱 Currently Exploring
 
-* Next.js
 * MERN Stack
 * AI Integrations
 * Open Source Contributions
